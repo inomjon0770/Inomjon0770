@@ -37,22 +37,49 @@
 
 ---
 
+---
+
 <h3 align="center">📊 My GitHub Stats</h3>
 <p align="center">
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=InomjonIkromjonov&theme=tokyonight&show_icons=true&count_private=true" />
+  <!-- Main Stats -->
+  <img 
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=InomjonIkromjonov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    alt="Inomjon GitHub Stats" 
+    width="100%"
+  />
   <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=InomjonIkromjonov&theme=tokyonight" />
+
+  <!-- Streak Stats -->
+  <img 
+    align="center"
+    src="https://streak-stats.demolab.com?user=InomjonIkromjonov&theme=tokyonight&hide_border=false"
+    alt="GitHub Streak"
+    width="100%"
+  />
 
 </td>
+
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InomjonIkromjonov&theme=tokyonight&layout=compact&langs_count=10" />
+
+  <!-- Top Languages -->
+  <img 
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=InomjonIkromjonov&theme=tokyonight&layout=compact&langs_count=10"
+    alt="Top Languages"
+    width="100%"
+  />
+
 </td>
 </tr>
 </table>
+</p>
+
+---
 
 ---
 
@@ -89,3 +116,4 @@
 ---
 
 ⭐ **Profilimni kuzatib boring** — yangi loyihalar tez orada chiqadi!
+
