@@ -52,7 +52,7 @@
 
   <!-- 🌟 Main Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=InomjonIkromjonov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020)"
     alt="Inomjon GitHub Stats" 
     width="100%"
   />
@@ -122,3 +122,4 @@
 ---
 
 ⭐ **Profilimni kuzatib boring — yangi loyihalar tez orada chiqadi!**
+
