@@ -1,32 +1,141 @@
-<h1 align="center">Hi 👋, I'm inomjon</h1>
-<h3 align="center">A highly motivated Android and Flutter developer from Uzbekistan, dedicated to building scalable, user-focused mobile applications and continuously advancing in modern mobile technologies.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inomjon0770" alt="inomjon0770" /></a> </p>
-
-- 🔭 I’m currently working on [PandaTV](https://play.google.com/store/apps/details?id=com.app.pandaproduction&pcampaignid=web_share)
-
-- 🌱 I’m currently learning **Advanced Flutter architecture, clean architecture, Firebase services, and modern mobile development practices**
-
-- 👯 I’m looking to collaborate on [ReadUz](APK)
-
-- 🤝 I’m looking for help with [TimeTable](APK)
-
-- 👨‍💻 All of my projects are available at [https://github.com/inomjon0770](https://github.com/inomjon0770)
-
-- 💬 Ask me about **Android development, Flutter, Java, mobile app ideas, and building real-world projects**
-
-- 📫 How to reach me **ikromjonovinomjon87@gmail.com**
-
-- ⚡ Fun fact **I think I am fun and a lot topic speaking**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/inomjon-ikromjonov-530536357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inomjon-ikromjonov-530536357" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/150100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="150100" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E90FF&height=200&section=header&text=Inomjon%20Ikromjonov&fontSize=60&animation=twinkling&fontColor=ffffff" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<h3 align="center">
+    <samp>
+        &gt; Hey There!, I am
+        <b>Inomjon Ikromjonov</b>
+    </samp>
+</h3>
+
+<p align="center">
+<samp>
+「 Android Developer from Uzbekistan 🇺🇿 」  
+</samp>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&lines=Android+Developer;Building+Real+Apps;Learning+AI+%26+Backend;Future+Senior+Developer"
+  />
+</p>
+
+---
+
+# 🚀 About Me
+
+- 📱 Android Developer (Java & Kotlin)
+- 🤖 Learning AI & Backend
+- 🧠 Building real-world applications
+- 🎯 Goal: Become Senior Mobile Developer & study in USA
+
+---
+
+# 🔧 What I Build
+
+- 📚 Book apps (ReadUZ)
+- 🎬 Movie streaming apps
+- 🔔 Notification systems
+- 🔍 Search & filtering systems
+- ☁️ Firebase-based apps
+
+---
+
+# 🧠 Interests
+
+- Mobile Development 📱  
+- Artificial Intelligence 🤖  
+- Startup & App ideas 💡  
+- Passive income with apps 💰  
+
+---
+
+# ⚡ Philosophy
+
+- Consistency > Motivation  
+- Simple code > Complex code  
+- Build → Learn → Improve  
+- Real projects > Tutorials  
+
+---
+
+# 🛠 Technologies & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,flutter,git,github,linux,figma" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+# 🚀 Projects
+
+### 📚 ReadUZ
+- Book reading app
+- Categories, search, favorites
+- Subscription system (15,000 so'm)
+
+### 🎬 Movie App
+- Uzbek movies platform
+- Online streaming
+- Notifications
+
+---
+
+# 🤝 Collaboration
+
+I’m open to:
+
+- Android projects  
+- Startup ideas  
+- AI-based apps  
+- Firebase projects  
+
+---
+
+# 📫 Contact & Support
+
+<p align="center">
+
+<a href="mailto:ikromjonovinomjon87@gmail.com">
+<img src="https://img.shields.io/badge/email-ikromjonovinomjon87@gmail.com-red?style=for-the-badge&logo=gmail">
+</a>
+
+<br><br>
+
+<a href="https://t.me/inomjon_201o">
+<img src="https://img.shields.io/badge/telegram-@inomjon_201o-2CA5E0?style=for-the-badge&logo=telegram">
+</a>
+
+<br><br>
+
+<a href="https://buymeacoffee.com/inomjon2010">
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-yellow?style=for-the-badge&logo=buymeacoffee">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⚡ Building apps, learning AI, and growing every day
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E90FF&height=100&section=footer"/>
+</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/inomjon2010"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="inomjon2010" /></a></p><br><br>
