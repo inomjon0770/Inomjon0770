@@ -5,7 +5,7 @@
 <h3 align="center">
     <samp>
         &gt; Hey There! I'm 
-        <b>Inomjon Ikromjonov</b>
+        <b>Mr.Inomjon</b>
     </samp>
 </h3>
 
