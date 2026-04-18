@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E90FF&height=220&section=header&text=Inomjon%20Ikromjonov&fontSize=65&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E90FF&height=220&section=header&text=Mr.Inomjon&fontSize=65&animation=twinkling&fontColor=ffffff" />
 </p>
 
 <h3 align="center">
