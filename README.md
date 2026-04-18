@@ -121,9 +121,10 @@ I’m open to:
 
 <br><br>
 
-<a href="https://buymeacoffee.com/inomjon2010">
-<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-yellow?style=for-the-badge&logo=buymeacoffee">
-</a>
+<p><a href="https://www.buymeacoffee.com/inomjon2010"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="inomjon2010" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inomjon0770&show_icons=true&locale=en&layout=compact" alt="inomjon0770" /></p>
+
 
 </p>
 
@@ -136,8 +137,3 @@ I’m open to:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E90FF&height=100&section=footer"/>
 </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/inomjon2010"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="inomjon2010" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inomjon0770&show_icons=true&locale=en&layout=compact" alt="inomjon0770" /></p>
