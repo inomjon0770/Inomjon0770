@@ -4,20 +4,25 @@
 
 <h3 align="center">
   <samp>
-    &gt; Hey There! I'm <b>Inomjon Ikromjonov</b> (Mr.Inomjon)
+    &gt; Hey There!, I am
+    <b><a target="_blank" href="https://github.com/inomjon0770">Inomjon Ikromjonov</a></b> (Mr.Inomjon)
   </samp>
 </h3>
 
 <p align="center">
   <samp>
-    「 Android, Flutter & Full Stack Web Developer from Uzbekistan 🇺🇿 」
+    「 Android, Flutter & Full Stack Web Developer from <b>Uzbekistan</b> 🇺🇿 」
   </samp>
 </p>
 
 <p align="center">
   <a href="https://github.com/inomjon0770">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Android+and+Flutter+Specialist;Full+Stack+Web+Developer;Building+Scalable+Modern+Apps;Exploring+AI+and+Cloud+Computing;Targeting+Senior+Roles+and+USA+Studies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=780&lines=Android+and+Flutter+Specialist;Full+Stack+Web+Developer;Building+Scalable+Modern+Applications;Exploring+AI+and+Cloud+Computing;Targeting+Senior+Roles+and+USA+Grad+Studies" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="460" alt="Cyber Matrix Coding Visual" />
 </p>
 
 <p align="center">
@@ -33,14 +38,14 @@
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-inomjon2010-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Uzbekistan%20🇺🇿-007ACC?style=for-the-badge" alt="Location" />
-  &nbsp;
   <img src="https://img.shields.io/badge/English-C1%20Advanced-00C9A7?style=for-the-badge" alt="English C1" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=inomjon0770&label=PROFILE%20VIEWS&color=36BCF7&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
 ```yaml
 Developer Profile:
@@ -48,42 +53,85 @@ Developer Profile:
   Specialization: Android, Flutter & Full Stack Web Development
   Experience: 3+ Years Building Production Apps & Modern Systems
   Education: Najot Ta'lim (Web) | iTeach (Android) | UVENT (Flutter)
-  Languages: English (C1 Advanced), Russian, Korean, Uzbek (Native)
-  Philosophy: "Consistency > Motivation | Build → Learn → Improve"
+  Languages: English (C1 Advanced), Russian (Intermediate), Korean (Elementary), Uzbek (Native)
+  Motto: "Consistency > Motivation | Build → Learn → Improve"
 ```
 
 - 📱 **Mobile Development**: High-performance native **Android** (**Java**, **Kotlin**) & cross-platform apps using **Flutter / Dart** and **React Native**.
 - 🌐 **Modern Web Engineering**: Responsive, SEO-optimized web apps utilizing **HTML5, CSS3, JavaScript, Node.js & RESTful APIs**.
 - ☁️ **Cloud & Databases**: Proficient in **Firebase** (Auth, Firestore, Cloud Functions, FCM, Realtime DB), **SQLite / Room**, and backend architectures.
-- 💡 **Passion & Mindset**: Focused on clean architecture, scalable codebases, UI/UX aesthetics, and rapid product development for startups and global markets.
+- 🎓 **Continuous Growth**: Studied at **Najot Ta'lim** (Web Development), **iTeach** (Android Development), and **UVENT** (Flutter Development).
 
 ---
 
-### 🛠️ Tech Stack & Capabilities
+### 🔧 What I Build
 
-#### 📱 Mobile App Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio,react&perline=6" alt="Mobile Stack" />
-</p>
-
-#### 🌐 Frontend & Web Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,bootstrap,tailwind&perline=7" alt="Web Stack" />
-</p>
-
-#### 🗄️ Backend, Databases & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,sqlite,mysql,postgres,postman,py&perline=6" alt="Backend Stack" />
-</p>
-
-#### 🧰 Tools, Version Control & Design
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&perline=5" alt="Tools Stack" />
-</p>
+- 📱 **Cross-Platform Mobile Apps**: Clean architecture Flutter applications with state management (BLoC / Provider / Riverpod).
+- 🤖 **Native Android Systems**: Robust Java/Kotlin mobile apps with Room database, multimedia streaming, and background workers.
+- 🌐 **Full-Stack Web Applications**: Scalable RESTful API backends with Node.js/Express and fast responsive frontends.
+- 🔔 **Cloud & Realtime Services**: Firebase-powered real-time synchronization, push notification systems (FCM), and authentication.
+- 💳 **Commercial Integration**: Payment gateway integrations, digital subscription systems, and e-commerce platforms.
 
 ---
 
-### 📊 GitHub Activity & Performance
+### 🧠 Interests & Focus Areas
+
+- 📱 **Mobile Engineering**: Native Android & Cross-Platform Flutter development with top-tier UI/UX.
+- 🤖 **Artificial Intelligence & Backend**: Exploring LLM integrations, AI agents, and microservice architectures.
+- 💡 **Startup & Product Building**: Creating production-ready applications, MVPs, and passive income digital products.
+- 🎯 **Global Aspirations**: Becoming a Senior Mobile/Full-Stack Engineer & pursuing graduate studies in the USA.
+
+---
+
+### ⚡ Engineering Philosophy
+
+- 🚀 **Consistency > Motivation**: Daily disciplined coding delivers exponential long-term mastery.
+- 🧩 **Simple Code > Complex Code**: Write maintainable, self-documenting code that scales effortlessly.
+- 🛠️ **Build → Learn → Improve**: Real-world deployed apps teach more than passive tutorials.
+- ✨ **User Experience Matters**: Speed, accessibility, and intuitive design drive product success.
+
+---
+
+### 🛠 Technologies & Tools
+
+<table align="center" border="0" cellspacing="0" cellpadding="8">
+  <tr>
+    <td align="center" title="Flutter"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="42" alt="Flutter"/><br/><sub><b>Flutter</b></sub></td>
+    <td align="center" title="Dart"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="42" alt="Dart"/><br/><sub><b>Dart</b></sub></td>
+    <td align="center" title="Kotlin"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="42" alt="Kotlin"/><br/><sub><b>Kotlin</b></sub></td>
+    <td align="center" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" alt="Java"/><br/><sub><b>Java</b></sub></td>
+    <td align="center" title="Android"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="42" alt="Android"/><br/><sub><b>Android</b></sub></td>
+    <td align="center" title="React Native"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" alt="React"/><br/><sub><b>React</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
+    <td align="center" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
+    <td align="center" title="Express"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42" alt="Express"/><br/><sub><b>Express</b></sub></td>
+    <td align="center" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
+    <td align="center" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
+    <td align="center" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" alt="Python"/><br/><sub><b>Python</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" title="Firebase"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="42" alt="Firebase"/><br/><sub><b>Firebase</b></sub></td>
+    <td align="center" title="SQLite"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="42" alt="SQLite"/><br/><sub><b>SQLite</b></sub></td>
+    <td align="center" title="PostgreSQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" alt="MySQL"/><br/><sub><b>MySQL</b></sub></td>
+    <td align="center" title="Postman"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="42" alt="Postman"/><br/><sub><b>Postman</b></sub></td>
+    <td align="center" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" alt="Linux"/><br/><sub><b>Linux</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" alt="Git"/><br/><sub><b>Git</b></sub></td>
+    <td align="center" title="GitHub"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
+    <td align="center" title="VS Code"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
+    <td align="center" title="Figma"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="42" alt="Figma"/><br/><sub><b>Figma</b></sub></td>
+    <td align="center" title="Android Studio"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" width="42" alt="Android Studio"/><br/><sub><b>Android Studio</b></sub></td>
+    <td align="center" title="REST API"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" alt="REST API"/><br/><sub><b>REST API</b></sub></td>
+  </tr>
+</table>
+
+---
+
+### 📊 Vital Statistics & Performance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=inomjon0770&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8" alt="GitHub Stats" />
@@ -166,33 +214,47 @@ timeline
 
 ### 🤝 Open for Opportunities & Collaboration
 
-- 📱 Cross-platform & Native Mobile App Development (**Flutter / Android / Kotlin**)
-- 🌐 Full Stack Web Development & API integrations (**Node.js / JavaScript**)
-- 🚀 Startup MVP development & fast turnaround production apps
-- 🤖 AI-enhanced tools & Cloud-backed solutions
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr>
+<td width="50%" valign="top">
+
+### 💡 What I'm Open To
+- 📱 Native & Cross-Platform Mobile Apps (**Flutter / Android / Kotlin**)
+- 🌐 Full-Stack Web Development & REST APIs (**Node.js / Express**)
+- 🚀 Startup MVPs & High-Impact Commercial Solutions
+- 🤖 AI-Enhanced Tools & Cloud Architectures
+
+</td>
+<td width="50%" valign="top">
+
+### 📬 Direct Contact
+- 💬 **Telegram**: [@inomjon_201o](https://t.me/inomjon_201o)
+- 📧 **Email**: [ikromjonovinomjon87@gmail.com](mailto:ikromjonovinomjon87@gmail.com)
+- 🐙 **GitHub**: [@inomjon0770](https://github.com/inomjon0770)
+- ☕ **Support**: [buymeacoffee.com/inomjon2010](https://www.buymeacoffee.com/inomjon2010)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📫 Contact & Support
-
 <p align="center">
   <a href="https://t.me/inomjon_201o" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@inomjon__201o-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-Direct%20Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ikromjonovinomjon87@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Direct%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Send%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/inomjon0770">
-    <img src="https://img.shields.io/badge/GitHub-inomjon0770-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.buymeacoffee.com/inomjon2010" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="48" width="200" alt="Buy Me A Coffee" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/inomjon2010" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
+  ⚡ Building scalable mobile & web apps, learning daily, and growing with consistency!
 </p>
 
 <p align="center">
