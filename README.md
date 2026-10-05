@@ -1,33 +1,46 @@
-<div align="center">
-  <!-- Top Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Inomjon%20Ikromjonov&fontSize=54&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Mobile%20%26%20Web%20Developer&descSize=20&descAlignY=68&descAlign=50" width="100%" alt="Header" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E90FF&height=220&section=header&text=Inomjon%20Ikromjonov&fontSize=52&animation=twinkling&fontColor=ffffff&desc=Android%20%7C%20Flutter%20%7C%20Full%20Stack%20Developer&descAlignY=70&descAlign=50" alt="Header" />
+</p>
 
-  <!-- Animated Typing SVG -->
-  <p align="center">
-    <a href="https://github.com/inomjon0770">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=false&width=780&height=50&lines=📱+Android+%26+Flutter+Expert+%7C+Java+%26+Kotlin+%26+Dart;🌐+Full+Stack+Web+Developer+%7C+Node.js+%26+Modern+Web;🚀+Crafting+Scalable%2C+High-Performance+Applications;🧠+AI+Explorer+%7C+Clean+Architecture+%7C+Lifelong+Learner;🎯+Targeting+USA+Grad+Studies+%26+Senior+Tech+Roles" alt="Typing SVG" />
-    </a>
-  </p>
+<h3 align="center">
+  <samp>
+    &gt; Hey There! I'm <b>Inomjon Ikromjonov</b> (Mr.Inomjon)
+  </samp>
+</h3>
 
-  <!-- Quick Badges & Contacts -->
-  <p align="center">
-    <a href="https://t.me/inomjon_201o" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-@inomjon__201o-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    <a href="mailto:ikromjonovinomjon87@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-ikromjonovinomjon87-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://www.buymeacoffee.com/inomjon2010" target="_blank">
-      <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-inomjon2010-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-    </a>
-    <img src="https://img.shields.io/badge/Location-Uzbekistan%20🇺🇿-007ACC?style=for-the-badge" alt="Location" />
-    <img src="https://img.shields.io/badge/English-C1%20Advanced-00C9A7?style=for-the-badge" alt="English C1" />
-  </p>
-</div>
+<p align="center">
+  <samp>
+    「 Android, Flutter & Full Stack Web Developer from Uzbekistan 🇺🇿 」
+  </samp>
+</p>
+
+<p align="center">
+  <a href="https://github.com/inomjon0770">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Android+and+Flutter+Specialist;Full+Stack+Web+Developer;Building+Scalable+Modern+Apps;Exploring+AI+and+Cloud+Computing;Targeting+Senior+Roles+and+USA+Studies" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://t.me/inomjon_201o" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@inomjon__201o-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="mailto:ikromjonovinomjon87@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ikromjonovinomjon87-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://www.buymeacoffee.com/inomjon2010" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-inomjon2010-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Uzbekistan%20🇺🇿-007ACC?style=for-the-badge" alt="Location" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/English-C1%20Advanced-00C9A7?style=for-the-badge" alt="English C1" />
+</p>
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 About Me
 
 ```yaml
 Developer Profile:
@@ -35,7 +48,7 @@ Developer Profile:
   Specialization: Android, Flutter & Full Stack Web Development
   Experience: 3+ Years Building Production Apps & Modern Systems
   Education: Najot Ta'lim (Web) | iTeach (Android) | UVENT (Flutter)
-  Language Proficiency: English (C1 Advanced), Russian, Korean, Uzbek (Native)
+  Languages: English (C1 Advanced), Russian, Korean, Uzbek (Native)
   Philosophy: "Consistency > Motivation | Build → Learn → Improve"
 ```
 
@@ -48,51 +61,39 @@ Developer Profile:
 
 ### 🛠️ Tech Stack & Capabilities
 
-<div align="center">
-
 #### 📱 Mobile App Development
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio,react&perline=6" alt="Mobile Stack" />
 </p>
 
 #### 🌐 Frontend & Web Development
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,bootstrap,tailwind&perline=7" alt="Web Stack" />
 </p>
 
 #### 🗄️ Backend, Databases & Cloud
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=firebase,sqlite,mysql,postgres,postman,py&perline=6" alt="Backend Stack" />
 </p>
 
 #### 🧰 Tools, Version Control & Design
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&perline=5" alt="Tools Stack" />
 </p>
-
-</div>
 
 ---
 
 ### 📊 GitHub Activity & Performance
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=inomjon0770&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8" alt="GitHub Stats" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inomjon0770&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=inomjon0770&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF79C6&currStreakLabel=38BDF8" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=inomjon0770&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inomjon0770&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inomjon0770&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF79C6&currStreakLabel=38BDF8" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -195,5 +196,5 @@ timeline
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E90FF&height=100&section=footer" alt="Footer" />
 </p>
