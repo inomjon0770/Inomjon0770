@@ -1,171 +1,180 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E90FF&height=220&section=header&text=Inomjon%20Ikromjonov&fontSize=52&animation=twinkling&fontColor=ffffff&desc=Android%20%7C%20Flutter%20%7C%20Full%20Stack%20Developer&descAlignY=70&descAlign=50" alt="Header" />
-</p>
+<div align="center">
 
-<h3 align="center">
-  <samp>
-    &gt; Hey There!, I am
-    <b><a target="_blank" href="https://github.com/inomjon0770">Inomjon Ikromjonov</a></b> (Mr.Inomjon)
-  </samp>
-</h3>
+  <!-- 🌟 Premium Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E90FF&height=220&section=header&text=Inomjon%20Ikromjonov&fontSize=52&animation=twinkling&fontColor=ffffff&desc=Android%20%7C%20Flutter%20%7C%20Full%20Stack%20Web%20Developer&descAlignY=70&descAlign=50" width="100%" alt="Header" />
 
-<p align="center">
-  <samp>
-    「 Android, Flutter & Full Stack Web Developer from <b>Uzbekistan</b> 🇺🇿 」
-  </samp>
-</p>
+  <!-- ⚡ Animated Typing Banner -->
+  <p align="center">
+    <a href="https://github.com/inomjon0770">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=🚀+Android+and+Flutter+Specialist;💎+Full+Stack+Web+Developer;🌟+Passionate+About+Clean+Code+and+Architecture;🤖+Exploring+AI+and+Cloud+Computing;🎯+Targeting+Senior+Roles+and+USA+Grad+Studies" alt="Typing SVG" />
+    </a>
+  </p>
 
-<p align="center">
-  <a href="https://github.com/inomjon0770">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=780&lines=Android+and+Flutter+Specialist;Full+Stack+Web+Developer;Building+Scalable+Modern+Applications;Exploring+AI+and+Cloud+Computing;Targeting+Senior+Roles+and+USA+Grad+Studies" alt="Typing SVG" />
-  </a>
-</p>
+  <!-- 🖼️ Cyberpunk Terminal Banner -->
+  <p align="center">
+    <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="90%" alt="Cyber Terminal Banner" />
+  </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="460" alt="Cyber Matrix Coding Visual" />
-</p>
+  <!-- 🏷️ Modern Info Cards -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/🏠_Uzbekistan_🇺🇿-36BCF7?style=for-the-badge&logo=home&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/📱_Mobile_Developer-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Developer" />
+    <img src="https://img.shields.io/badge/🌐_Full_Stack_Web-007ACC?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Full Stack" />
+    <img src="https://img.shields.io/badge/🎓_English_C1_Advanced-00C9A7?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English C1" />
+  </p>
 
-<p align="center">
-  <a href="https://t.me/inomjon_201o" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@inomjon__201o-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  &nbsp;
-  <a href="mailto:ikromjonovinomjon87@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ikromjonovinomjon87-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://www.buymeacoffee.com/inomjon2010" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-inomjon2010-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/English-C1%20Advanced-00C9A7?style=for-the-badge" alt="English C1" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=inomjon0770&label=PROFILE%20VIEWS&color=36BCF7&style=for-the-badge" alt="Profile Views" />
-</p>
+  <!-- 📊 Live Profile Counters & Socials -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=inomjon0770&style=for-the-badge&color=36BCF7&label=👀+Profile+Views" alt="Profile Views" />
+    <a href="https://t.me/inomjon_201o" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-@inomjon__201o-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="mailto:ikromjonovinomjon87@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-Direct_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://www.buymeacoffee.com/inomjon2010" target="_blank">
+      <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+    </a>
+  </p>
 
----
+</div>
 
-### 👨‍💻 About Me
+<!-- 🌈 Glowing Animated Separator -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-```yaml
-Developer Profile:
-  Name: Inomjon Ikromjonov (Mr.Inomjon)
-  Specialization: Android, Flutter & Full Stack Web Development
-  Experience: 3+ Years Building Production Apps & Modern Systems
-  Education: Najot Ta'lim (Web) | iTeach (Android) | UVENT (Flutter)
-  Languages: English (C1 Advanced), Russian (Intermediate), Korean (Elementary), Uzbek (Native)
-  Motto: "Consistency > Motivation | Build → Learn → Improve"
+## 👨‍💻 About Me
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="340" alt="About Me GIF" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+space!+🌍;I'm+a+passionate+mobile+and+web+engineer+🔥;Let's+build+high-impact+software+together!+✨" alt="About Animation" />
+</div>
+
+<br/>
+
+<img align="right" alt="Coding Animation" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```kotlin
+// 🚀 Developer Profile & Background
+class InomjonIkromjonov {
+    val name = "Inomjon Ikromjonov (Mr.Inomjon)"
+    val role = "Android, Flutter & Full Stack Web Developer"
+    val location = "Uzbekistan 🇺🇿"
+    val spokenLanguages = listOf("Uzbek (Native)", "English (C1 Advanced)", "Russian", "Korean")
+    val education = listOf("Najot Ta'lim (Web)", "iTeach (Android)", "UVENT (Flutter)")
+    val coreStack = listOf("Flutter", "Kotlin", "Java", "Node.js", "Firebase", "SQL")
+    
+    fun getPhilosophy(): String = "Consistency > Motivation | Build → Learn → Improve"
+    fun getMission(): String = "Crafting high-performance apps & preparing for USA graduate studies 🎯"
+}
+
+val dev = InomjonIkromjonov()
+println(dev.getMission())
 ```
 
-- 📱 **Mobile Development**: High-performance native **Android** (**Java**, **Kotlin**) & cross-platform apps using **Flutter / Dart** and **React Native**.
-- 🌐 **Modern Web Engineering**: Responsive, SEO-optimized web apps utilizing **HTML5, CSS3, JavaScript, Node.js & RESTful APIs**.
-- ☁️ **Cloud & Databases**: Proficient in **Firebase** (Auth, Firestore, Cloud Functions, FCM, Realtime DB), **SQLite / Room**, and backend architectures.
-- 🎓 **Continuous Growth**: Studied at **Najot Ta'lim** (Web Development), **iTeach** (Android Development), and **UVENT** (Flutter Development).
+<br clear="right"/>
 
----
+- 📱 **Mobile Development**: 3+ years crafting native **Android** (**Kotlin**, **Java**) & cross-platform (**Flutter**, **Dart**) apps with smooth 60fps animations.
+- 🌐 **Modern Web Engineering**: Responsive, SEO-optimized web apps utilizing **Node.js, Express, JavaScript, HTML5 & CSS3**.
+- ☁️ **Cloud & Databases**: Deep experience with **Firebase** (Auth, Firestore, Cloud Functions, FCM), **SQLite / Room**, and **PostgreSQL / MySQL**.
+- 🧠 **Clean Architecture**: Strong focus on scalable architectures (MVVM, BLoC, Clean Code), microservices, and AI integrations.
 
-### 🔧 What I Build
+<!-- 🌈 Glowing Animated Separator -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-- 📱 **Cross-Platform Mobile Apps**: Clean architecture Flutter applications with state management (BLoC / Provider / Riverpod).
-- 🤖 **Native Android Systems**: Robust Java/Kotlin mobile apps with Room database, multimedia streaming, and background workers.
-- 🌐 **Full-Stack Web Applications**: Scalable RESTful API backends with Node.js/Express and fast responsive frontends.
-- 🔔 **Cloud & Realtime Services**: Firebase-powered real-time synchronization, push notification systems (FCM), and authentication.
-- 💳 **Commercial Integration**: Payment gateway integrations, digital subscription systems, and e-commerce platforms.
+## 🛠️ Technology Stack & Toolbox
 
----
+<div align="center">
 
-### 🧠 Interests & Focus Areas
+### 🚀 Programming Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- 📱 **Mobile Engineering**: Native Android & Cross-Platform Flutter development with top-tier UI/UX.
-- 🤖 **Artificial Intelligence & Backend**: Exploring LLM integrations, AI agents, and microservice architectures.
-- 💡 **Startup & Product Building**: Creating production-ready applications, MVPs, and passive income digital products.
-- 🎯 **Global Aspirations**: Becoming a Senior Mobile/Full-Stack Engineer & pursuing graduate studies in the USA.
+### 📱 Mobile & Web Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
+### 🗄️ Databases, Cloud & APIs
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### ⚡ Engineering Philosophy
+### 🧰 Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-- 🚀 **Consistency > Motivation**: Daily disciplined coding delivers exponential long-term mastery.
-- 🧩 **Simple Code > Complex Code**: Write maintainable, self-documenting code that scales effortlessly.
-- 🛠️ **Build → Learn → Improve**: Real-world deployed apps teach more than passive tutorials.
-- ✨ **User Experience Matters**: Speed, accessibility, and intuitive design drive product success.
+</div>
 
----
+<!-- 🌈 Glowing Animated Separator -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-### 🛠 Technologies & Tools
+## 📊 GitHub Analytics & Activity
 
-<table align="center" border="0" cellspacing="0" cellpadding="8">
-  <tr>
-    <td align="center" title="Flutter"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="42" alt="Flutter"/><br/><sub><b>Flutter</b></sub></td>
-    <td align="center" title="Dart"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="42" alt="Dart"/><br/><sub><b>Dart</b></sub></td>
-    <td align="center" title="Kotlin"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="42" alt="Kotlin"/><br/><sub><b>Kotlin</b></sub></td>
-    <td align="center" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" alt="Java"/><br/><sub><b>Java</b></sub></td>
-    <td align="center" title="Android"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="42" alt="Android"/><br/><sub><b>Android</b></sub></td>
-    <td align="center" title="React Native"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" alt="React"/><br/><sub><b>React</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
-    <td align="center" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
-    <td align="center" title="Express"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42" alt="Express"/><br/><sub><b>Express</b></sub></td>
-    <td align="center" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
-    <td align="center" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
-    <td align="center" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" alt="Python"/><br/><sub><b>Python</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" title="Firebase"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="42" alt="Firebase"/><br/><sub><b>Firebase</b></sub></td>
-    <td align="center" title="SQLite"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="42" alt="SQLite"/><br/><sub><b>SQLite</b></sub></td>
-    <td align="center" title="PostgreSQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
-    <td align="center" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" alt="MySQL"/><br/><sub><b>MySQL</b></sub></td>
-    <td align="center" title="Postman"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="42" alt="Postman"/><br/><sub><b>Postman</b></sub></td>
-    <td align="center" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" alt="Linux"/><br/><sub><b>Linux</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" alt="Git"/><br/><sub><b>Git</b></sub></td>
-    <td align="center" title="GitHub"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
-    <td align="center" title="VS Code"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
-    <td align="center" title="Figma"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="42" alt="Figma"/><br/><sub><b>Figma</b></sub></td>
-    <td align="center" title="Android Studio"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" width="42" alt="Android Studio"/><br/><sub><b>Android Studio</b></sub></td>
-    <td align="center" title="REST API"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" alt="REST API"/><br/><sub><b>REST API</b></sub></td>
-  </tr>
-</table>
-
----
-
-### 📊 Vital Statistics & Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inomjon0770&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8" alt="GitHub Stats" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inomjon0770&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inomjon0770&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" alt="Top Languages" />
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inomjon0770&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=ffffff" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inomjon0770&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF79C6&currStreakLabel=38BDF8" alt="GitHub Streak" />
-</p>
+<br/>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inomjon0770&theme=tokyonight&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=FF79C6&currStreakLabel=36BCF7&sideLabels=ffffff&currStreakNum=36BCF7&dates=ffffff&sideNums=36BCF7" alt="GitHub Streak" />
+</div>
 
-### 🚀 Featured Projects
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inomjon0770&theme=tokyonight&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FF79C6&area=true&hide_border=true" width="95%" alt="Activity Waveform Graph" />
+</div>
+
+<!-- 🌈 Glowing Animated Separator -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🚀 Featured Production Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>📚 ReadUZ — Smart E-Reader Platform</h3>
-      <p>A complete book-reading ecosystem with categorized digital libraries, instant search, bookmarking, favorites, and integrated subscription payments (15,000 UZS tier).</p>
+      <p>A full-featured book reading and discovery application with user authentication, category filtering, search, favorite lists, and premium subscription model.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Payme%2FClick-Integrated-00C9A7?style=flat-square"/>
+        <img src="https://img.shields.io/badge/In--App%20Pay-Success-green?style=flat-square"/>
       </p>
       <ul>
-        <li>⚡ Fast local caching & offline reading capabilities</li>
-        <li>🔍 Real-time search with multi-filter categories</li>
-        <li>💳 Automated subscription & premium reader unlocks</li>
+        <li>📑 Categorized digital library with instant search & cache</li>
+        <li>💳 Automated subscription & payment integration (15,000 UZS)</li>
+        <li>🌙 Custom e-reader reader mode with theme switcher</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🎬 Movie Stream UZ — Uzbek Streaming App</h3>
+      <h3>🎬 Movie Stream UZ — Media Streaming</h3>
       <p>Modern mobile video streaming app tailored for Uzbek movies & TV series with adaptive streaming, watchlists, high-speed CDN delivery, and push notifications.</p>
       <p>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
@@ -174,17 +183,24 @@ Developer Profile:
         <img src="https://img.shields.io/badge/FCM%20Push-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       </p>
       <ul>
-        <li>🎥 High-quality adaptive video playback with subtitle support</li>
-        <li>🔔 Instant FCM notifications for new episode premieres</li>
-        <li>💾 Local caching with SQLite/Room for watchlist access</li>
+        <li>⚡ Adaptive video player with low-latency buffering</li>
+        <li>🔔 Firebase Cloud Messaging for episode releases</li>
+        <li>💾 Offline metadata caching with local Room/SQLite database</li>
       </ul>
     </td>
   </tr>
 </table>
 
----
+<!-- 🌈 Glowing Animated Separator -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-### 💼 Experience & Education Roadmap
+## 🎯 Learning Journey & Milestones
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&lines=🔥+Mastering+Flutter+and+Native+Android;🌐+Building+Full-Stack+Web+Applications;☁️+Exploring+Cloud+and+AI+Microservices;🚀+Growing+with+Consistency+Every+Single+Day!" alt="Learning Animation" />
+</div>
 
 ```mermaid
 timeline
@@ -199,64 +215,90 @@ timeline
                    : High-Scalability Systems, UI/UX, AI Integration & Cloud
 ```
 
----
+<!-- 🌈 Glowing Animated Separator -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-### 🌐 Spoken Languages
+## 🌐 Spoken Languages
 
 | Language | Proficiency Level | Capability |
 | :--- | :--- | :--- |
-| 🇺🇿 **Uzbek** | Native | Mother Tongue (Native Speaker) |
-| 🇬🇧 **English** | **C1 Advanced** | Professional & Academic Fluent Working Proficiency |
-| 🇷🇺 **Russian** | Intermediate | Conversational & Technical Documentation |
-| 🇰🇷 **Korean** | Elementary | Basic Everyday Phrases & Greetings |
+| 🇺🇿 **Uzbek** | Native | Mother Tongue (Native Speaker) ⭐⭐⭐⭐⭐ |
+| 🇬🇧 **English** | **C1 Advanced** | Professional & Academic Fluent Proficiency ⭐⭐⭐⭐☆ |
+| 🇷🇺 **Russian** | Intermediate | Conversational & Technical Documentation ⭐⭐⭐☆☆ |
+| 🇰🇷 **Korean** | Elementary | Basic Everyday Phrases & Greetings ⭐⭐☆☆☆ |
 
----
+<!-- 🌈 Glowing Animated Separator -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-### 🤝 Open for Opportunities & Collaboration
+## 💫 Daily Inspiration & Philosophy
 
-<table width="100%" border="0" cellspacing="10" cellpadding="0">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0d1117&border=true&quote_color=36BCF7&author_color=FF79C6" alt="Daily Quote" />
+</div>
 
-### 💡 What I'm Open To
-- 📱 Native & Cross-Platform Mobile Apps (**Flutter / Android / Kotlin**)
-- 🌐 Full-Stack Web Development & REST APIs (**Node.js / Express**)
-- 🚀 Startup MVPs & High-Impact Commercial Solutions
-- 🤖 AI-Enhanced Tools & Cloud Architectures
+<br/>
 
-</td>
-<td width="50%" valign="top">
+```python
+# 💭 Engineering Philosophy
+philosophy = {
+    "mindset": "Consistency > Motivation 🌱",
+    "approach": "Learn by building real-world projects 🔨", 
+    "code_quality": "Clean and maintainable > Overly complex ⚡",
+    "motto": "Build → Learn → Improve 🚀"
+}
 
-### 📬 Direct Contact
-- 💬 **Telegram**: [@inomjon_201o](https://t.me/inomjon_201o)
-- 📧 **Email**: [ikromjonovinomjon87@gmail.com](mailto:ikromjonovinomjon87@gmail.com)
-- 🐙 **GitHub**: [@inomjon0770](https://github.com/inomjon0770)
-- ☕ **Support**: [buymeacoffee.com/inomjon2010](https://www.buymeacoffee.com/inomjon2010)
+print("Remember: Great software is built through daily focus and continuous improvement!")
+```
 
-</td>
-</tr>
-</table>
+<!-- 🌈 Glowing Animated Separator -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
----
+## 🤝 Let's Connect & Collaborate
 
-<p align="center">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1500&color=36BCF7&center=true&vCenter=true&width=650&lines=Always+excited+about+new+projects!;Let's+build+something+incredible+together!;Open+to+collaborations+and+opportunities!" alt="Connect Animation" />
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://t.me/inomjon_201o" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Direct%20Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/💬_Telegram-@inomjon__201o-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:ikromjonovinomjon87@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧_Email-Direct_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
+  <a href="https://github.com/inomjon0770">
+    <img src="https://img.shields.io/badge/🐙_GitHub-inomjon0770-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br/>
+
+<h3 align="center">☕ Support & Coffee:</h3>
+<p align="center">
   <a href="https://www.buymeacoffee.com/inomjon2010" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="48" width="200" alt="Buy Me A Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
 
-<p align="center">
-  ⚡ Building scalable mobile & web apps, learning daily, and growing with consistency!
-</p>
+<!-- 🌈 Footer Animated Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E90FF&height=110&section=footer" width="100%" alt="Footer" />
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E90FF&height=100&section=footer" alt="Footer" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=4000&pause=2000&color=36BCF7&center=true&vCenter=true&width=550&lines=⭐+Thanks+for+visiting+my+profile!;🤝+Let's+connect+and+build+together!;💬+Always+open+to+new+opportunities!" alt="Footer Message" />
+</div>
+
+<div align="center">
+  <sub>✨ Crafted with ❤️ and lots of ☕ by <strong>Inomjon Ikromjonov</strong> | 2026 ✨</sub>
+</div>
